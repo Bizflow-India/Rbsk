@@ -1,0 +1,148 @@
+Sr No,Student Full Name,error,portal_response
+9,SHIVAM DNYANESHWAR JONDHALE,Could not find school row in Screening list: Z.P.P.SCHOOL ANDHERI SHIVAPUR,
+10,AAYISHA KALIM SHAIKH,Could not find school row in Screening list: Z.P.P.SCHOOL ANDHERI SHIVAPUR,
+9,SHIVAM DNYANESHWAR JONDHALE,"Message: javascript error: clickable.click is not a function
+  (Session info: chrome=151.0.7922.72)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6d9788945+14ce5]
+	chromedriver!GetHandleVerifier [0x7ff6d97889a0+14d40]
+	chromedriver!(No symbol) [0x7ff6d92b5afd]
+	chromedriver!(No symbol) [0x7ff6d92bda61]
+	chromedriver!(No symbol) [0x7ff6d92c0daf]
+	chromedriver!(No symbol) [0x7ff6d935f732]
+	chromedriver!(No symbol) [0x7ff6d93395ba]
+	chromedriver!(No symbol) [0x7ff6d935e4ab]
+	chromedriver!(No symbol) [0x7ff6d930308c]
+	chromedriver!(No symbol) [0x7ff6d9303fb3]
+	chromedriver!GetHandleVerifier [0x7ff6d9dbe60b+64a9ab]
+	chromedriver!GetHandleVerifier [0x7ff6d9db8b12+644eb2]
+	chromedriver!GetHandleVerifier [0x7ff6d9dde3ae+66a74e]
+	chromedriver!GetHandleVerifier [0x7ff6d97a5d7e+3211e]
+	chromedriver!GetHandleVerifier [0x7ff6d97ae52c+3a8cc]
+	chromedriver!GetHandleVerifier [0x7ff6d9792854+1ebf4]
+	chromedriver!GetHandleVerifier [0x7ff6d97929e4+1ed84]
+	chromedriver!GetHandleVerifier [0x7ff6d9775d17+20b7]
+	KERNEL32!BaseThreadInitThunk [0x7ff8c110e957+17]
+	ntdll!RtlUserThreadStart [0x7ff8c21e427c+2c]
+",
+10,AAYISHA KALIM SHAIKH,"Message: javascript error: clickable.click is not a function
+  (Session info: chrome=151.0.7922.72)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6d9788945+14ce5]
+	chromedriver!GetHandleVerifier [0x7ff6d97889a0+14d40]
+	chromedriver!(No symbol) [0x7ff6d92b5afd]
+	chromedriver!(No symbol) [0x7ff6d92bda61]
+	chromedriver!(No symbol) [0x7ff6d92c0daf]
+	chromedriver!(No symbol) [0x7ff6d935f732]
+	chromedriver!(No symbol) [0x7ff6d93395ba]
+	chromedriver!(No symbol) [0x7ff6d935e4ab]
+	chromedriver!(No symbol) [0x7ff6d930308c]
+	chromedriver!(No symbol) [0x7ff6d9303fb3]
+	chromedriver!GetHandleVerifier [0x7ff6d9dbe60b+64a9ab]
+	chromedriver!GetHandleVerifier [0x7ff6d9db8b12+644eb2]
+	chromedriver!GetHandleVerifier [0x7ff6d9dde3ae+66a74e]
+	chromedriver!GetHandleVerifier [0x7ff6d97a5d7e+3211e]
+	chromedriver!GetHandleVerifier [0x7ff6d97ae52c+3a8cc]
+	chromedriver!GetHandleVerifier [0x7ff6d9792854+1ebf4]
+	chromedriver!GetHandleVerifier [0x7ff6d97929e4+1ed84]
+	chromedriver!GetHandleVerifier [0x7ff6d9775d17+20b7]
+	KERNEL32!BaseThreadInitThunk [0x7ff8c110e957+17]
+	ntdll!RtlUserThreadStart [0x7ff8c21e427c+2c]
+",
+9,SHIVAM DNYANESHWAR JONDHALE,"Message: javascript error: clickable.click is not a function
+  (Session info: chrome=151.0.7922.72)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6d9788945+14ce5]
+	chromedriver!GetHandleVerifier [0x7ff6d97889a0+14d40]
+	chromedriver!(No symbol) [0x7ff6d92b5afd]
+	chromedriver!(No symbol) [0x7ff6d92bda61]
+	chromedriver!(No symbol) [0x7ff6d92c0daf]
+	chromedriver!(No symbol) [0x7ff6d935f732]
+	chromedriver!(No symbol) [0x7ff6d93395ba]
+	chromedriver!(No symbol) [0x7ff6d935e4ab]
+	chromedriver!(No symbol) [0x7ff6d930308c]
+	chromedriver!(No symbol) [0x7ff6d9303fb3]
+	chromedriver!GetHandleVerifier [0x7ff6d9dbe60b+64a9ab]
+	chromedriver!GetHandleVerifier [0x7ff6d9db8b12+644eb2]
+	chromedriver!GetHandleVerifier [0x7ff6d9dde3ae+66a74e]
+	chromedriver!GetHandleVerifier [0x7ff6d97a5d7e+3211e]
+	chromedriver!GetHandleVerifier [0x7ff6d97ae52c+3a8cc]
+	chromedriver!GetHandleVerifier [0x7ff6d9792854+1ebf4]
+	chromedriver!GetHandleVerifier [0x7ff6d97929e4+1ed84]
+	chromedriver!GetHandleVerifier [0x7ff6d9775d17+20b7]
+	KERNEL32!BaseThreadInitThunk [0x7ff8c110e957+17]
+	ntdll!RtlUserThreadStart [0x7ff8c21e427c+2c]
+",
+10,AAYISHA KALIM SHAIKH,"Message: javascript error: clickable.click is not a function
+  (Session info: chrome=151.0.7922.72)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6d9788945+14ce5]
+	chromedriver!GetHandleVerifier [0x7ff6d97889a0+14d40]
+	chromedriver!(No symbol) [0x7ff6d92b5afd]
+	chromedriver!(No symbol) [0x7ff6d92bda61]
+	chromedriver!(No symbol) [0x7ff6d92c0daf]
+	chromedriver!(No symbol) [0x7ff6d935f732]
+	chromedriver!(No symbol) [0x7ff6d93395ba]
+	chromedriver!(No symbol) [0x7ff6d935e4ab]
+	chromedriver!(No symbol) [0x7ff6d930308c]
+	chromedriver!(No symbol) [0x7ff6d9303fb3]
+	chromedriver!GetHandleVerifier [0x7ff6d9dbe60b+64a9ab]
+	chromedriver!GetHandleVerifier [0x7ff6d9db8b12+644eb2]
+	chromedriver!GetHandleVerifier [0x7ff6d9dde3ae+66a74e]
+	chromedriver!GetHandleVerifier [0x7ff6d97a5d7e+3211e]
+	chromedriver!GetHandleVerifier [0x7ff6d97ae52c+3a8cc]
+	chromedriver!GetHandleVerifier [0x7ff6d9792854+1ebf4]
+	chromedriver!GetHandleVerifier [0x7ff6d97929e4+1ed84]
+	chromedriver!GetHandleVerifier [0x7ff6d9775d17+20b7]
+	KERNEL32!BaseThreadInitThunk [0x7ff8c110e957+17]
+	ntdll!RtlUserThreadStart [0x7ff8c21e427c+2c]
+",
+9,SHIVAM DNYANESHWAR JONDHALE,"Message: javascript error: health.click is not a function
+  (Session info: chrome=151.0.7922.72)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6d9788945+14ce5]
+	chromedriver!GetHandleVerifier [0x7ff6d97889a0+14d40]
+	chromedriver!(No symbol) [0x7ff6d92b5afd]
+	chromedriver!(No symbol) [0x7ff6d92bda61]
+	chromedriver!(No symbol) [0x7ff6d92c0daf]
+	chromedriver!(No symbol) [0x7ff6d935f732]
+	chromedriver!(No symbol) [0x7ff6d93395ba]
+	chromedriver!(No symbol) [0x7ff6d935e4ab]
+	chromedriver!(No symbol) [0x7ff6d930308c]
+	chromedriver!(No symbol) [0x7ff6d9303fb3]
+	chromedriver!GetHandleVerifier [0x7ff6d9dbe60b+64a9ab]
+	chromedriver!GetHandleVerifier [0x7ff6d9db8b12+644eb2]
+	chromedriver!GetHandleVerifier [0x7ff6d9dde3ae+66a74e]
+	chromedriver!GetHandleVerifier [0x7ff6d97a5d7e+3211e]
+	chromedriver!GetHandleVerifier [0x7ff6d97ae52c+3a8cc]
+	chromedriver!GetHandleVerifier [0x7ff6d9792854+1ebf4]
+	chromedriver!GetHandleVerifier [0x7ff6d97929e4+1ed84]
+	chromedriver!GetHandleVerifier [0x7ff6d9775d17+20b7]
+	KERNEL32!BaseThreadInitThunk [0x7ff8c110e957+17]
+	ntdll!RtlUserThreadStart [0x7ff8c21e427c+2c]
+",
+10,AAYISHA KALIM SHAIKH,"Message: javascript error: health.click is not a function
+  (Session info: chrome=151.0.7922.72)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6d9788945+14ce5]
+	chromedriver!GetHandleVerifier [0x7ff6d97889a0+14d40]
+	chromedriver!(No symbol) [0x7ff6d92b5afd]
+	chromedriver!(No symbol) [0x7ff6d92bda61]
+	chromedriver!(No symbol) [0x7ff6d92c0daf]
+	chromedriver!(No symbol) [0x7ff6d935f732]
+	chromedriver!(No symbol) [0x7ff6d93395ba]
+	chromedriver!(No symbol) [0x7ff6d935e4ab]
+	chromedriver!(No symbol) [0x7ff6d930308c]
+	chromedriver!(No symbol) [0x7ff6d9303fb3]
+	chromedriver!GetHandleVerifier [0x7ff6d9dbe60b+64a9ab]
+	chromedriver!GetHandleVerifier [0x7ff6d9db8b12+644eb2]
+	chromedriver!GetHandleVerifier [0x7ff6d9dde3ae+66a74e]
+	chromedriver!GetHandleVerifier [0x7ff6d97a5d7e+3211e]
+	chromedriver!GetHandleVerifier [0x7ff6d97ae52c+3a8cc]
+	chromedriver!GetHandleVerifier [0x7ff6d9792854+1ebf4]
+	chromedriver!GetHandleVerifier [0x7ff6d97929e4+1ed84]
+	chromedriver!GetHandleVerifier [0x7ff6d9775d17+20b7]
+	KERNEL32!BaseThreadInitThunk [0x7ff8c110e957+17]
+	ntdll!RtlUserThreadStart [0x7ff8c21e427c+2c]
+",
+11,SHAMBHURAJE MAHESH PARDHI,Could not find Excel student in the RBSK student list: SHAMBHURAJE MAHESH PARDHI,

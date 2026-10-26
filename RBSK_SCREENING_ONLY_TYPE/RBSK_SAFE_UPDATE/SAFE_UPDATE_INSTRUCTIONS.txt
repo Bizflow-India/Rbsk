@@ -1,0 +1,22 @@
+RBSK SAFE UPDATE FOR AN EXISTING OTHER PC
+=======================================
+
+1. On this updated PC, run CREATE_SAFE_UPDATE_FOLDER.bat.
+2. Copy the CONTENTS inside RBSK_SAFE_UPDATE to a USB drive or shared folder.
+3. On the other PC, close the RBSK application and Chrome automation window.
+4. Open that PC's existing RBSK installation folder.
+5. Paste the safe-update contents into the existing folder and choose Replace files.
+6. Do NOT delete or rename the existing destination folder before pasting.
+7. Start RBSK normally.
+
+The safe update does NOT contain or replace:
+- rbsk_license.json
+- Existing licence/access key
+- Machine ID
+- Used or remaining entry tokens
+- rbsk_saved_login.json
+- Browser profiles
+- Logs and progress
+- Excel/student data
+
+The other PC therefore continues with its own existing licence and remaining tokens.

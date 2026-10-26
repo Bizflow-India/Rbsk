@@ -1,0 +1,53 @@
+Batch Name,Login ID,Excel File,status,saved,duplicates,failed,skipped,skipped_this_run,message
+Direct - sample_screening_health_students,MHT-1271251,D:\RBSK_SCREENING_ONLY_TYPE\sample_screening_health_students.xlsx,failed,0,,0,0,,"Portal is still loading. Wait or refresh Student Master, then retry. Last state: राष्ट्रीय बाल स्वास्थ्य कार्यक्रम (आर.बी.एस.के.) rashtriya bal swasthya karyakram (rbsk) timeout 14:59 welcome mht-1271251 children linked with abha 0 2026-2027 maharashtra(27) ahilyanagar(26) sangamner mht-1271251 mht compliance report sta"
+Direct - sample_screening_health_students,MHT-1271251,D:\RBSK_SCREENING_ONLY_TYPE\sample_screening_health_students.xlsx,partial_or_failed,0,0,2,0,0,
+Direct - Report_04082026_0006_32_health_ready,MHT-1271251,D:\RBSK_SCREENING_ONLY_TYPE\Report_04082026_0006_32_health_ready.xlsx,partial_or_failed,0,0,2,0,0,
+Direct - Report_04082026_0006_32_health_ready,MHT-1271251,D:\RBSK_SCREENING_ONLY_TYPE\Report_04082026_0006_32_health_ready.xlsx,partial_or_failed,0,0,2,0,0,
+Direct - Report_04082026_0006_32_health_ready,MHT-1271251,D:\RBSK_SCREENING_ONLY_TYPE\Report_04082026_0006_32_health_ready.xlsx,partial_or_failed,0,0,2,0,0,
+Direct - Report_04082026_0006_32_health_ready,MHT-1271251,D:\RBSK_SCREENING_ONLY_TYPE\Report_04082026_0006_32_health_ready.xlsx,partial_or_failed,0,0,2,0,0,
+Direct - Report_04082026_0006_32_health_ready,MHT-1271251,D:\RBSK_SCREENING_ONLY_TYPE\Report_04082026_0006_32_health_ready.xlsx,partial_or_failed,1,0,1,0,0,
+Direct - Report_04082026_0006_32_health_ready_BP,MHT-1271251,D:\RBSK_SCREENING_ONLY_TYPE\Report_04082026_0006_32_health_ready_BP.xlsx,failed,0,,0,0,,"Month is not selected on the Screening page. Select the Month, then start again."
+Direct - Report_04082026_0006_32_health_ready_BP,MHT-1271251,D:\RBSK_SCREENING_ONLY_TYPE\Report_04082026_0006_32_health_ready_BP.xlsx,partial_or_failed,1,0,1,0,0,
+Direct - sample_screening_health_students,MHT-1271251,D:\RBSK_SCREENING_ONLY_TYPE\sample_screening_health_students.xlsx,failed,0,,0,0,,No student rows selected for this center.
+Direct - sample_screening_health_students,MHT-1271251,D:\RBSK_SCREENING_ONLY_TYPE\sample_screening_health_students.xlsx,failed,0,,0,0,,No student rows selected for this center.
+Direct - sample_screening_health_students,MHT-1271251,D:\RBSK_SCREENING_ONLY_TYPE\sample_screening_health_students.xlsx,failed,0,,0,0,,No student rows selected for this center.
+Direct - sample_screening_health_students,MHT-1271251,D:\RBSK_SCREENING_ONLY_TYPE\sample_screening_health_students.xlsx,failed,0,,0,0,,No student rows selected for this center.
+Direct - sample_screening_health_students,MHT-1271251,D:\RBSK_SCREENING_ONLY_TYPE\sample_screening_health_students.xlsx,failed,0,,0,0,,No student rows selected for this center.
+Direct - Report_04082026_0006_32_health_ready_BP,MHT-1271251,D:\RBSK_SCREENING_ONLY_TYPE\Report_04082026_0006_32_health_ready_BP.xlsx,partial_or_failed,1,0,1,0,0,
+Direct - Report_04082026_0006_32_health_ready_BP,MHT-1271251,D:\RBSK_SCREENING_ONLY_TYPE\Report_04082026_0006_32_health_ready_BP.xlsx,partial_or_failed,2,0,2,1,0,
+Direct - Report_04082026_0006_32_health_ready_BP,MHT-1271251,D:\RBSK_SCREENING_ONLY_TYPE\Report_04082026_0006_32_health_ready_BP.xlsx,failed,0,,0,0,,"Month is not selected on the Screening page. Select the Month, then start again."
+Direct - Report_04082026_0006_32_health_ready_BP,MHT-1271251,D:\RBSK_SCREENING_ONLY_TYPE\Report_04082026_0006_32_health_ready_BP.xlsx,partial_or_failed,1,0,10,0,0,
+Direct - Report_04082026_0006_32_health_ready_BP,MHT-1271251,D:\RBSK_SCREENING_ONLY_TYPE\Report_04082026_0006_32_health_ready_BP.xlsx,partial_or_failed,2,0,8,0,0,
+Direct - Report_04082026_0006_32_health_ready_BP,MHT-1271251,D:\RBSK_SCREENING_ONLY_TYPE\Report_04082026_0006_32_health_ready_BP.xlsx,partial_or_failed,13,0,11,7,0,
+Direct - Report_04082026_0006_32_health_ready_BP,MHT-1271251,D:\RBSK_SCREENING_ONLY_TYPE\Report_04082026_0006_32_health_ready_BP.xlsx,partial_or_failed,0,0,11,20,0,
+Direct - sample_screening_health_students,MHT-1271251,D:\RBSK_SCREENING_ONLY_TYPE\sample_screening_health_students.xlsx,failed,0,,0,0,,"Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=151.0.7922.72)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7080a8905+14ce5]
+	chromedriver!GetHandleVerifier [0x7ff7080a8960+14d40]
+	chromedriver!(No symbol) [0x7ff707bd5afd]
+	chromedriver!(No symbol) [0x7ff707bd28c9]
+	chromedriver!(No symbol) [0x7ff707bc2d01]
+	chromedriver!(No symbol) [0x7ff707bc4b6f]
+	chromedriver!(No symbol) [0x7ff707bc32a3]
+	chromedriver!(No symbol) [0x7ff707bc2a6b]
+	chromedriver!(No symbol) [0x7ff707bc2721]
+	chromedriver!(No symbol) [0x7ff707bc03d7]
+	chromedriver!(No symbol) [0x7ff707bc0b52]
+	chromedriver!(No symbol) [0x7ff707bd9da6]
+	chromedriver!(No symbol) [0x7ff707c7f2c4]
+	chromedriver!(No symbol) [0x7ff707c595ba]
+	chromedriver!(No symbol) [0x7ff707c7e4ab]
+	chromedriver!(No symbol) [0x7ff707c2308c]
+	chromedriver!(No symbol) [0x7ff707c23fb3]
+	chromedriver!GetHandleVerifier [0x7ff7086de5db+64a9bb]
+	chromedriver!GetHandleVerifier [0x7ff7086d8ae2+644ec2]
+	chromedriver!GetHandleVerifier [0x7ff7086fe37e+66a75e]
+	chromedriver!GetHandleVerifier [0x7ff7080c5d3e+3211e]
+	chromedriver!GetHandleVerifier [0x7ff7080ce4ec+3a8cc]
+	chromedriver!GetHandleVerifier [0x7ff7080b2814+1ebf4]
+	chromedriver!GetHandleVerifier [0x7ff7080b29a4+1ed84]
+	chromedriver!GetHandleVerifier [0x7ff708095cd7+20b7]
+	KERNEL32!BaseThreadInitThunk [0x7ff8c110e957+17]
+	ntdll!RtlUserThreadStart [0x7ff8c21e427c+2c]
+"
